@@ -22,8 +22,6 @@ frame2.place(relwidth=0.5, relheight=0.11, relx=0, rely=0.89)
 frame3 = tk.Frame(root, bg="pink")
 frame3.place(relwidth=0.5, relheight=0.11, relx=0.5, rely=0.89)
 
-removeframe = tk.Frame(frame, bg="white")
-removeframe.place(relwidth=0.1, relheight=1, relx=0.9)
 
 
 def addFolder():
